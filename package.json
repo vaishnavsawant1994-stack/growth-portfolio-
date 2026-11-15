@@ -1,0 +1,7 @@
+{
+  "name": "growth-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Structural Growth Haus reference reconstruction (not production certified)",
+  "scripts": { "test": "node --test tests/smoke.cjs", "check": "node --check app.js && npm test" }
+}
